@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JAVA SpringBoot .<br>⚡ Fun fact  APIs are like the glue of the internet! With Java and Spring Boot, you can easily build microservices that chat with each other, making your app run smoothly like a well-coordinated team.<br><br>
+🌱 I’m currently learning JAVA SpringBoot .<br>⚡ Fun fact :  "APIs are like the glue of the internet! With Java and Spring Boot, you can easily build microservices that chat with each other, making your app run smoothly like a well-coordinated team".<br><br>
 
 
 ## 🌐 Socials:
